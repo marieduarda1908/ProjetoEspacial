@@ -2,8 +2,8 @@
 
 ## Integrantes
 
-* Maria Eduarda – RM: 565386
-* Giovanna – RM: 565681
+* Maria Eduarda de Oliveira Silva Luiz – RM: 565386
+* Giovanna Praieiro Pavani – RM: 565681
 
 ## Descrição do Projeto
 
